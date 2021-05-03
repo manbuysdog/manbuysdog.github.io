@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[678],{704:function(t,e,n){"use strict";n.r(e),n.d(e,{default:function(){return u}});var r=n(294);function u(){return r.createElement("h1",null,"Custard Running Club")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-cbc0675dca6c88645fcd.js.map

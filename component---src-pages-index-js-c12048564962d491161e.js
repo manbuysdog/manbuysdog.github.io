@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[678],{704:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return l}});var r=n(294);function l(){return r.createElement("h1",null,"Welcome to the Custard Running Club!")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-c12048564962d491161e.js.map

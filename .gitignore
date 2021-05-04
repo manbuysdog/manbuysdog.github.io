@@ -1,38 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@manbuysdog 
-gatsbyjs
-/
-gatsby
-913
-50.1k9.5k
-Code
-Issues
-345
-Pull requests
-237
-Discussions
-Actions
-Projects
-4
-Security
-Insights
-gatsby/.gitignore
-@LekoArts
-LekoArts chore: Add backport script (#30732)
-…
-Latest commit 81ec270 25 days ago
- History
- 19 contributors
-@KyleAMathews@pieh@benstepp@sidharthachatterjee@LekoArts@DSchau@blainekasten@wardpeet@0x80@arcanis@jquense@ascorbic
-67 lines (55 sloc)  1.23 KB
-  
 # Logs
 logs
 *.log
@@ -100,16 +65,3 @@ package-lock.json
 !themes/gatsby-starter-notes-theme/package-lock.json
 !themes/gatsby-starter-theme/package-lock.json
 !themes/gatsby-starter-theme-workspace/package-lock.json
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-

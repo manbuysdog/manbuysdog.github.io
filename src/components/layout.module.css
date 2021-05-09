@@ -1,8 +1,28 @@
-.banner {
-  background-image: url("../../static/Artboard 1.png"); 
+.container {
+  background-image: url("../../static/Artboard\ 1\ copygg.png"); 
+  background-repeat: repeat-x;
+  background-position: left top;
+  display: flex;
+  justify-content: center;
+
+  
+}
+.banner {  
+  width: 1000px;
+  background-image: url("../../static/Artboard 1gg.png"); 
   background-repeat: no-repeat;
   background-position: center top;
   height: auto;
-  width: 100%;
-  display: flex;;
+  display: flex;
+}
+main {
+  width: 1000px;
+  margin: 30px auto;
+}
+footer {
+  background-repeat: no-repeat;
+  background-position: center top;
+  min-height: 100px;
+  background-color: lightgoldenrodyellow;
+  display: flex;
 }

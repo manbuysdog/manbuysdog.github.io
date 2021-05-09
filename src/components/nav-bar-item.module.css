@@ -1,0 +1,8 @@
+li {
+  display: inline;
+  float:left;
+}
+a {
+  display: block;
+  padding: 8px;
+}

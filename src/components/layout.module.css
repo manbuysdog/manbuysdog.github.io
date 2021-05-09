@@ -1,0 +1,8 @@
+.banner {
+  background-image: url("../../static/Artboard 1.png"); 
+  background-repeat: no-repeat;
+  background-position: center top;
+  height: auto;
+  width: 100%;
+  display: flex;;
+}

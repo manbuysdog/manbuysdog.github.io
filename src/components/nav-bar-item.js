@@ -1,10 +1,13 @@
 import React from "react";
-import { styles } from "./nav-bar-item.module.css";
+import * as styles from "./nav-bar-item.module.css";
+import { Link } from "gatsby";
 
-function NavBarItem({ name }) {
+function NavBarItem({ name, route }) {
   return (
-    <li>
-      <a>{name}</a>
+    <li className={styles.navLink} >
+      <Link to={route}>
+        {name}
+      </Link>
     </li>
   );
 }

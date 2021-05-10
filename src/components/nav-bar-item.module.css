@@ -1,8 +1,12 @@
-li {
-  display: inline;
-  float:left;
+.navlink {
+  display: flex;
 }
-a {
+.navLink a{
   display: block;
   padding: 8px;
+  text-decoration: none;
+  color: inherit;
+}
+.navLink a:hover{
+  color: black;
 }

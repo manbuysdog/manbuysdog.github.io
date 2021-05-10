@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+}
+.container a {
+  color: inherit;
+}
+.container a:hover {
+  color: black;
+}
+.container svg {
+  margin: 0 5px;
+}

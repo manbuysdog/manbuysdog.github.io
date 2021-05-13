@@ -1,21 +1,21 @@
 .container {
-  background-image: url("../../static/Artboard\ 1\ copygg.png"); 
+  background-image: url("../../../static/Artboard\ 1\ copygg.png"); 
   background-repeat: repeat-x;
   background-position: left top;
   display: flex;
   justify-content: center;
 }
 .banner {  
-  width: 1000px;
-  background-image: url("../../static/Artboard 1gg.png"); 
+  width: 1050px;
+  background-image: url("../../../static/Artboard 1gg.png"); 
   background-repeat: no-repeat;
   background-position: center top;
   height: auto;
   display: flex;
 }
 main {
-  width: 1000px;
-  margin: 30px auto;
+  width: 1050px;
+  margin: 20px auto;
 }
 footer {
   background-repeat: no-repeat;

@@ -23,4 +23,6 @@ footer {
   min-height: 100px;
   background-color: lightgoldenrodyellow;
   display: flex;
+  color:silver;
+  font-size: smaller;
 }

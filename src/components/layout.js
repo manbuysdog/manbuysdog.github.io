@@ -21,7 +21,7 @@ export default function Layout({ children }) {
         </div>
       </div>
       <main>{children}</main>
-      <footer></footer>
+      <footer><p>CUSTARD RUNNING CLUB 2021</p></footer>
     </div>
   );
 }

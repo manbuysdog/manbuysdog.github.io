@@ -1,0 +1,17 @@
+.footer {
+  background-repeat: no-repeat;
+  background-position: center top;
+  min-height: 100px;
+  background-color: lightgoldenrodyellow;
+  display: flex;
+  color:silver;
+  font-size: smaller;
+
+  div {
+    width: 1050px;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: bottom;
+  }
+
+}

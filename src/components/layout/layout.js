@@ -3,14 +3,17 @@ import * as styles from "./layout.module.css";
 import NavBar from "./nav-bar";
 import Socials from "../socials";
 import Navigation from "./navigation";
+import Footer from "./footer";
 
 
 export default function Layout({ children }) {
   return (
-    <div style={{ 
-      display: "flex", 
-      flexDirection: "column"
-    }}>
+    <div
+      style={{
+        display: "flex",
+        flexDirection: "column",
+      }}
+    >
       <header className={styles.container}>
         <div className={styles.banner}>
           <NavBar>
@@ -20,7 +23,7 @@ export default function Layout({ children }) {
         </div>
       </header>
       <main>{children}</main>
-      <footer><p>CUSTARD RUNNING CLUB 2021</p></footer>
+      <Footer></Footer>
     </div>
   );
 }

@@ -1,8 +1,8 @@
 import React from "react";
-import { styles } from "./nav-bar.module.css";
+import * as navBarStyles from "./nav-bar.module.css";
 
 function NavBar({ children }) {
-  return <nav>{children}</nav>;
+  return <nav className={navBarStyles.nav}>{children}</nav>;
 }
 
 export default NavBar;

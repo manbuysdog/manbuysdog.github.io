@@ -11,7 +11,7 @@ import {
 function Socials() {
   return (
     <div className={styles.container}>
-      <a href="twitter.com">
+      <a href="https://twitter.com/club_custard">
         <FontAwesomeIcon icon={faTwitter} size="2x" />
       </a>
       <a href="https://www.strava.com/clubs/custard-running-club">

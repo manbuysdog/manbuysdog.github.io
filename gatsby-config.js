@@ -6,5 +6,8 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetaData: {
+    title: "Custard Running Club",
+  },
   plugins: ["gatsby-plugin-fontawesome-css", "gatsby-plugin-sass"],
 };

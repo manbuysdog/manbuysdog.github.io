@@ -9,4 +9,5 @@
 }
 .navLink a:hover{
   color: black;
+  background-color: rgba(184, 136, 3, 0.1);
 }

@@ -4,8 +4,8 @@ import Layout from "../components/layout/layout";
 
 export default function NotFound() {
   return (
-    <Layout>  
-      <h1 style={{ color: "yellow" }}>COLD CUSTARD!</h1>
+    <Layout> 
+      <h1>COLD CUSTARD!</h1>
       <p>Page not found</p>
     </Layout>
   );

@@ -3,10 +3,10 @@
   background-image: url("../../static/hero-splash.png"); 
   background-repeat: no-repeat;
   background-position: center top;
-  border-radius: 15px;
   height: 300px;
   text-align: center;
   padding-top: 190px;
+  border: 1px solid slategray;
 
   h1 {
     color: white;
@@ -21,4 +21,12 @@
     font-style: italic;
     color: lightslategray;
   }
+}
+.mission {
+  padding: 50px 100px;
+  text-align: center;
+  font-style: italic;
+  font-size: large;
+  color: slategray;
+
 }
